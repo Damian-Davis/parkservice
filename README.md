@@ -6,7 +6,7 @@ The Park Service has just inherited two parks: Wolf Point Park and Raccoon Meado
 
 You’ll need to take your colleague’s code, combine data from both park’s volunteer logs, then calculate which volunteers have the most hours. Get your bug spray and hiking boots and let’s type out this program!
 
-##Result 
+###Result 
 
 To see the result in a console.log(), call .sort(byHours) on result.
 Save your code. Then in the terminal, run tsc to compile your code and node index.js to see the top volunteers.
